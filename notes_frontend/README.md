@@ -1,4 +1,4 @@
-# Remotion video
+# Remotion video + Notes App
 
 <p align="center">
   <a href="https://github.com/remotion-dev/logo">
@@ -11,6 +11,8 @@
 
 Welcome to your Remotion project!
 
+This project includes a simple single-page Notes Application styled with the "Ocean Professional" theme. It runs in the Remotion Studio preview (port 3000) as a Still composition called "NotesApp". Notes are stored in localStorage.
+
 ## Commands
 
 **Install Dependencies**
@@ -19,11 +21,13 @@ Welcome to your Remotion project!
 npm i
 ```
 
-**Start Preview**
+**Start Preview (port 3000)**
 
 ```console
 npm run dev
 ```
+
+Open the Studio and select the "NotesApp" composition to use the notes UI.
 
 **Render video**
 
